@@ -1,7 +1,9 @@
 # Hi, I'm Betiel Amanuel 👋
-I'm a MERN Stack Developer passionate about building impactful digital products that solve real-world problems. My expertise spans JavaScript, React, Node.js, MongoDB, and Express, and I love creating efficient and scalable applications.
+I am a self-taught developer with a passion for creativity and problem-solving. My journey into coding began while pursuing a psychology degree at UNC Chapel Hill, where I discovered how technology can intersect with human behavior. Currently, I work as a behavioral health therapist, helping children with autism develop essential communication and social skills.
 
-I enjoy collaborating with cross-functional teams to deliver seamless web applications, and I'm constantly seeking opportunities to learn and implement new technologies.
+I love the impact I have in my current role, but I am eager to expand my reach by integrating my software development skills to build innovative learning management systems and enhance communication devices. By leveraging technology, I aim to improve the educational tools available to children with special needs, empowering them to learn and thrive.
+
+As a lifelong learner, I am constantly honing my coding skills and seeking real-world projects that allow me to deepen my expertise and gain experience in agile environments. I am driven by the desire to make a meaningful difference through both my work as a therapist and as a developer.
 
 ---
 
