@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Betiel Amanuel 👋
+MERN Stack Developer passionate about building impactful digital products that solve real-world problems.
 
-<!--
-**betielamanuel/betielamanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 My GitHub Stats
+![Betiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betielamanuel&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🌟 Featured Repositories
+Here are a few of my favorite repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=betielamanuel&repo=task-list)](https://github.com/betielamanuel/task-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=betielamanuel&repo=mern-auth)](https://github.com/betielamanuel/mern-auth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=betielamanuel&repo=image-finder-api)](https://github.com/betielamanuel/image-finder-api)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betielamanuel)
+
+## 🔥 GitHub Contributions
+![Betiel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=betielamanuel&theme=react-dark)
+
+## 📫 How to reach me:
+- Email: betielamanuel@example.com
+- [LinkedIn](https://www.linkedin.com/in/betielamanuel)
