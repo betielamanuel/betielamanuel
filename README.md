@@ -1,9 +1,9 @@
 # Hi, I'm Betiel Amanuel 👋
-I am a self-taught developer with a passion for creativity and problem-solving. My journey into coding began while pursuing a psychology degree at UNC Chapel Hill, where I discovered how technology can intersect with human behavior. Currently, I work as a behavioral health therapist, helping children with autism develop essential communication and social skills.
+I am a self-taught developer with a deep passion for coding and continuous learning. To further enhance my knowledge, I earned certifications in React from Per Scholas and Node.js from Code the Dream. My journey into coding began during my time at UNC Chapel Hill, where I majored in psychology. I was drawn to the creativity and problem-solving aspects of software development, which sparked my interest in building meaningful solutions.
 
-I love the impact I have in my current role, but I am eager to expand my reach by integrating my software development skills to build innovative learning management systems and enhance communication devices. By leveraging technology, I aim to improve the educational tools available to children with special needs, empowering them to learn and thrive.
+Currently, I work as a behavioral health therapist, helping children with autism develop essential communication and social skills. I love what I do, and I’m eager to expand my impact by integrating my software development skills into educational tools. My goal is to build learning management systems or improve communication devices to support children with special needs.
 
-As a lifelong learner, I am constantly honing my coding skills and seeking real-world projects that allow me to deepen my expertise and gain experience in agile environments. I am driven by the desire to make a meaningful difference through both my work as a therapist and as a developer.
+I am constantly learning and seeking real-world projects to enhance my expertise. I’m also eager to gain more experience in agile environments, where I can collaborate with others to create innovative and impactful digital products.
 
 ---
 
